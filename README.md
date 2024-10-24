@@ -1,1 +1,1 @@
-# Python_vehicle_number_plate_detection_web_application
+first we have to download Python 3.11.5 then open the project file and open Terminal and  create a virtual environment name of "ve" command is: (python -m venv ve) then activate it command is: (vs\Scripts\activate) then run this command is: (pip install -r requirements.txt) then check the install library command is: (pip list) now if every thing is good then run app.py file
